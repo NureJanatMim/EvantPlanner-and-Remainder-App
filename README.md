@@ -1,4 +1,4 @@
-# 🗓️ Event Planner - Java Swing Application
+# 🗓️ Event Planner and Reminder App
 
 This is a desktop application built using Java Swing that allows users to plan and manage events with real-time reminders. 
 It was developed using IntelliJ IDEA as part of a class assignment.
